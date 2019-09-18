@@ -1,0 +1,57 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj" RefactoringSettings.EnableRefactorings="True">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Menu\Menu.cs">
+    <Files>
+      <File FileName="Assets\Game\Scripts\Inventory\InventoryScript.cs" Line="10" Column="27" />
+      <File FileName="Assets\Game\Scripts\Inventory\MoveItem.cs" Line="16" Column="3" />
+      <File FileName="Assets\Game\Scripts\Inventory\SlotScript.cs" Line="19" Column="3" />
+      <File FileName="Assets\Game\Scripts\Item\ItemScripts\CampfireScript.cs" Line="17" Column="23" />
+      <File FileName="Assets\Game\Scripts\Item\ItemScripts\ItemFunction.cs" Line="22" Column="2" />
+      <File FileName="Assets\Game\Scripts\Item\ItemScripts\PitScript.cs" Line="17" Column="73" />
+      <File FileName="Assets\Game\Scripts\Item\AllItems.cs" Line="21" Column="3" />
+      <File FileName="Assets\Game\Scripts\Item\Item.cs" Line="10" Column="2" />
+      <File FileName="Assets\Game\Scripts\OnScene\CombineMenu\CombineClose.cs" Line="20" Column="44" />
+      <File FileName="Assets\Game\Scripts\OnScene\CombineMenu\CombineItems.cs" Line="19" Column="1" />
+      <File FileName="Assets\Game\Scripts\OnScene\CombineMenu\CombineMenu.cs" Line="19" Column="4" />
+      <File FileName="Assets\Game\Scripts\OnScene\Connections\Cave.cs" Line="1" Column="1" />
+      <File FileName="Assets\Game\Scripts\OnScene\Connections\ObCanvas.cs" Line="21" Column="12" />
+      <File FileName="Assets\Game\Scripts\OnScene\Connections\Outside.cs" Line="17" Column="1" />
+      <File FileName="Assets\Game\Scripts\OnScene\ContextMenu\Activator.cs" Line="26" Column="10" />
+      <File FileName="Assets\Game\Scripts\OnScene\ContextMenu\ContextValues.cs" Line="27" Column="25" />
+      <File FileName="Assets\Game\Scripts\OnScene\ContextMenu\DestroyItem.cs" Line="28" Column="17" />
+      <File FileName="Assets\Game\Scripts\OnScene\ContextMenu\HighlightWithItem.cs" Line="28" Column="14" />
+      <File FileName="Assets\Game\Scripts\OnScene\ContextMenu\ItemDrop.cs" Line="29" Column="14" />
+      <File FileName="Assets\Game\Scripts\OnScene\CraftMenu\Craft.cs" Line="30" Column="17" />
+      <File FileName="Assets\Game\Scripts\OnScene\CraftMenu\CraftMenu.cs" Line="38" Column="6" />
+      <File FileName="Assets\Game\Scripts\OnScene\CraftMenu\CraftMenuOpen.cs" Line="29" Column="23" />
+      <File FileName="Assets\Game\Scripts\OnScene\CraftMenu\MenuClose.cs" Line="34" Column="14" />
+      <File FileName="Assets\Game\Scripts\OnScene\CraftMenu\ProcessItem.cs" Line="17" Column="1" />
+      <File FileName="Assets\Game\Scripts\OnScene\CraftMenu\Target.cs" Line="31" Column="39" />
+      <File FileName="Assets\Game\Scripts\OnScene\Functions\AudioManager.cs" Line="20" Column="1" />
+      <File FileName="Assets\Game\Scripts\OnScene\Functions\ConsoleScript.cs" Line="34" Column="4" />
+      <File FileName="Assets\Game\Scripts\OnScene\Functions\HighlightImage.cs" Line="19" Column="1" />
+      <File FileName="Assets\Game\Scripts\OnScene\Functions\HighlightText.cs" Line="19" Column="1" />
+      <File FileName="Assets\Game\Scripts\OnScene\Functions\Ladder.cs" Line="29" Column="1" />
+      <File FileName="Assets\Game\Scripts\OnScene\Functions\LocationsChange.cs" Line="15" Column="1" />
+      <File FileName="Assets\Game\Scripts\OnScene\Functions\PopUpMessage.cs" Line="20" Column="1" />
+      <File FileName="Assets\Game\Scripts\OnScene\Functions\Rain.cs" Line="34" Column="30" />
+      <File FileName="Assets\Game\Scripts\OnScene\Functions\Spawner.cs" Line="28" Column="38" />
+      <File FileName="Assets\Game\Scripts\OnScene\Functions\TipClose.cs" Line="15" Column="1" />
+      <File FileName="Assets\Game\Scripts\OnScene\Functions\TipManager.cs" Line="23" Column="48" />
+      <File FileName="Assets\Game\Scripts\OnScene\MaterialHarvesting\ClayClick.cs" Line="21" Column="1" />
+      <File FileName="Assets\Game\Scripts\OnScene\MaterialHarvesting\OreClick.cs" Line="21" Column="1" />
+      <File FileName="Assets\Game\Scripts\OnScene\MaterialHarvesting\RootsClick.cs" Line="21" Column="1" />
+      <File FileName="Assets\Game\Scripts\OnScene\MaterialHarvesting\WaterClick.cs" Line="20" Column="1" />
+      <File FileName="Assets\Game\Scripts\SaveManagment\SaveData.cs" Line="33" Column="1" />
+      <File FileName="Assets\Game\Scripts\SaveManagment\SaveLoad.cs" Line="29" Column="25" />
+      <File FileName="Assets\Game\Scripts\Testing\ClickLoad.cs" Line="17" Column="1" />
+      <File FileName="Assets\Game\Scripts\Testing\ClickSave.cs" Line="17" Column="1" />
+      <File FileName="Assets\Game\Scripts\Testing\UIManager.cs" Line="17" Column="1" />
+      <File FileName="Assets\Menu\Menu.cs" Line="27" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

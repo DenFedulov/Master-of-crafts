@@ -1,0 +1,62 @@
+E:\Craft\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+E:\Craft\Temp\bin\Debug\Assembly-CSharp.dll
+E:\Craft\Temp\bin\Debug\Assembly-CSharp.pdb
+E:\Craft\Temp\bin\Debug\nunit.framework.dll
+E:\Craft\Temp\bin\Debug\UnityEditor.dll
+E:\Craft\Temp\bin\Debug\UnityEngine.Analytics.dll
+E:\Craft\Temp\bin\Debug\UnityEngine.dll
+E:\Craft\Temp\bin\Debug\UnityEngine.HoloLens.dll
+E:\Craft\Temp\bin\Debug\UnityEngine.Networking.dll
+E:\Craft\Temp\bin\Debug\UnityEngine.TestRunner.dll
+E:\Craft\Temp\bin\Debug\UnityEngine.UI.dll
+E:\Craft\Temp\bin\Debug\UnityEngine.VR.dll
+E:\Craft\Temp\bin\Debug\Mono.Cecil.dll
+E:\Craft\Temp\bin\Debug\Unity.SerializationLogic.dll
+E:\Craft\Temp\bin\Debug\Unity.DataContract.dll
+E:\Craft\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+E:\Craft\Temp\bin\Debug\Unity.UNetWeaver.dll
+E:\Craft\Temp\bin\Debug\Unity.CecilTools.dll
+E:\Craft\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+E:\Craft\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+E:\Craft\Temp\bin\Debug\UnityEngine.xml
+E:\Craft\Temp\bin\Debug\UnityEditor.xml
+E:\Craft\Temp\bin\Debug\UnityEngine.UI.xml
+E:\Craft\Temp\bin\Debug\UnityEngine.Networking.xml
+E:\Craft\Temp\bin\Debug\UnityEngine.TestRunner.xml
+E:\Craft\Temp\bin\Debug\nunit.framework.xml
+E:\Craft\Temp\bin\Debug\UnityEngine.Analytics.xml
+E:\Craft\Temp\bin\Debug\UnityEngine.HoloLens.xml
+E:\Craft\Temp\bin\Debug\UnityEngine.VR.xml
+E:\Craft\obj\Debug\Assembly-CSharp.dll
+E:\Craft\obj\Debug\Assembly-CSharp.pdb
+E:\Master of Crafts P\Temp\bin\Debug\Assembly-CSharp.dll
+E:\Master of Crafts P\Temp\bin\Debug\Assembly-CSharp.pdb
+E:\Master of Crafts P\Temp\bin\Debug\nunit.framework.dll
+E:\Master of Crafts P\Temp\bin\Debug\UnityEditor.dll
+E:\Master of Crafts P\Temp\bin\Debug\UnityEngine.Analytics.dll
+E:\Master of Crafts P\Temp\bin\Debug\UnityEngine.dll
+E:\Master of Crafts P\Temp\bin\Debug\UnityEngine.HoloLens.dll
+E:\Master of Crafts P\Temp\bin\Debug\UnityEngine.Networking.dll
+E:\Master of Crafts P\Temp\bin\Debug\UnityEngine.TestRunner.dll
+E:\Master of Crafts P\Temp\bin\Debug\UnityEngine.UI.dll
+E:\Master of Crafts P\Temp\bin\Debug\UnityEngine.VR.dll
+E:\Master of Crafts P\Temp\bin\Debug\Mono.Cecil.dll
+E:\Master of Crafts P\Temp\bin\Debug\Unity.SerializationLogic.dll
+E:\Master of Crafts P\Temp\bin\Debug\Unity.DataContract.dll
+E:\Master of Crafts P\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+E:\Master of Crafts P\Temp\bin\Debug\Unity.UNetWeaver.dll
+E:\Master of Crafts P\Temp\bin\Debug\Unity.CecilTools.dll
+E:\Master of Crafts P\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+E:\Master of Crafts P\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+E:\Master of Crafts P\Temp\bin\Debug\UnityEngine.xml
+E:\Master of Crafts P\Temp\bin\Debug\UnityEditor.xml
+E:\Master of Crafts P\Temp\bin\Debug\UnityEngine.UI.xml
+E:\Master of Crafts P\Temp\bin\Debug\UnityEngine.Networking.xml
+E:\Master of Crafts P\Temp\bin\Debug\UnityEngine.TestRunner.xml
+E:\Master of Crafts P\Temp\bin\Debug\nunit.framework.xml
+E:\Master of Crafts P\Temp\bin\Debug\UnityEngine.Analytics.xml
+E:\Master of Crafts P\Temp\bin\Debug\UnityEngine.HoloLens.xml
+E:\Master of Crafts P\Temp\bin\Debug\UnityEngine.VR.xml
+E:\Master of Crafts P\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+E:\Master of Crafts P\obj\Debug\Assembly-CSharp.dll
+E:\Master of Crafts P\obj\Debug\Assembly-CSharp.pdb

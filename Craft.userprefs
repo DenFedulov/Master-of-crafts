@@ -1,0 +1,30 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj" RefactoringSettings.EnableRefactorings="True">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Game\Scripts\OnScene\ContextMenu\CombineItems.cs">
+    <Files>
+      <File FileName="Assets\Menu\Menu.cs" Line="1" Column="1" />
+      <File FileName="Assets\Game\Scripts\SaveManagment\SaveLoad.cs" Line="1" Column="1" />
+      <File FileName="Assets\Game\Scripts\Item\Item.cs" Line="1" Column="1" />
+      <File FileName="Assets\Game\Scripts\Inventory\SlotScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Game\Scripts\Inventory\InventoryScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Game\Scripts\Inventory\MoveItem.cs" Line="1" Column="1" />
+      <File FileName="Assets\Game\Scripts\Item\ItemScripts\ItemFunction.cs" Line="1" Column="1" />
+      <File FileName="Assets\Game\Scripts\Testing\UIManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Game\Scripts\Testing\ClickSave.cs" Line="1" Column="1" />
+      <File FileName="Assets\Game\Scripts\Testing\ClickLoad.cs" Line="1" Column="1" />
+      <File FileName="Assets\Game\Scripts\Item\AllItems.cs" Line="1" Column="1" />
+      <File FileName="Assets\Game\Scripts\OnScene\ContextMenu\HighlightWithItem.cs" Line="1" Column="1" />
+      <File FileName="Assets\Game\Scripts\OnScene\Highlight.cs" Line="1" Column="1" />
+      <File FileName="Assets\Game\Scripts\OnScene\RootsClick.cs" Line="13" Column="44" />
+      <File FileName="Assets\Game\Scripts\OnScene\ContextMenu\ProcessItem.cs" Line="1" Column="1" />
+      <File FileName="Assets\Game\Scripts\OnScene\ContextMenu\ContextValues.cs" Line="1" Column="1" />
+      <File FileName="Assets\Game\Scripts\OnScene\CraftMenu\Craft.cs" Line="1" Column="1" />
+      <File FileName="Assets\Game\Scripts\OnScene\CraftMenu\CraftMenuOpen.cs" Line="38" Column="17" />
+      <File FileName="Assets\Game\Scripts\OnScene\ContextMenu\CombineItems.cs" Line="7" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
